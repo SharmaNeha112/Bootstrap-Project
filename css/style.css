@@ -1,0 +1,21 @@
+.container-fluid .navbar-brand{
+    width: 150px;
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+
+
+.navbar-expand-lg .navbar-nav .nav-link{
+    color: rgb(255 255 255) !important;
+    /* font-weight: 400; */
+
+}
+.nav-link:hover{
+    border: 1px solid white;
+}
+.container-fluid .row .col-12 h3{
+    margin-top: 25px;
+    /* margin-bottom: 15px; */
+    text-align: center;
+}
